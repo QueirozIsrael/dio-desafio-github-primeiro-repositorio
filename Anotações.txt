@@ -1,0 +1,1 @@
+Git Bash trabalha como terminal para otimizar o Git
